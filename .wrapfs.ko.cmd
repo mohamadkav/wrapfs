@@ -1,0 +1,1 @@
+cmd_/home/mohammad/Downloads/wrapfs-latest/fs/wrapfs/wrapfs.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/mohammad/Downloads/wrapfs-latest/fs/wrapfs/wrapfs.ko /home/mohammad/Downloads/wrapfs-latest/fs/wrapfs/wrapfs.o /home/mohammad/Downloads/wrapfs-latest/fs/wrapfs/wrapfs.mod.o ;  true
